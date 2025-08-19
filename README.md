@@ -1,17 +1,18 @@
 # Welcome
 Welcome to my GitHub profile :blush:
-## ☎️ Contact Me
-
-
 
 <details>
-  <summary>Resume</summary>
+  <summary>Resume :page_facing_up:</summary>
+
+  ## Education
+  - :books: 
+
 </details>
 
+  ## :iphone: Contact Me
+  - :email: esrodrnav@gmail.com
+  - :link: www.linkedin.com/in/estefanía-rodríguez-navas-52ab85136
+  
 
 
-## 📚 About Me:
 
-
-
-## 📈 My Stats: 
