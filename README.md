@@ -1,6 +1,17 @@
+# Welcome
+Welcome to my GitHub profile :blush:
+## ☎️ Contact Me
+
+
+
+<details>
+  <summary>Resume</summary>
+</details>
+
+
 
 ## 📚 About Me:
 
-## ☎️ Contact Me:
+
 
 ## 📈 My Stats: 
